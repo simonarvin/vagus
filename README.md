@@ -1,5 +1,8 @@
 # Full datasets and simulation code
 ----
+<p align="center">
+  <img src="https://github.com/simonarvin/vagus/blob/main/misc/vagus_overview.svg" width=300/>
+</p>
 
 ### Potentiation of general anesthesia by local blockade of the peripheral vagus nerve
 
