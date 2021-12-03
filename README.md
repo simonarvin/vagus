@@ -1,4 +1,4 @@
-# Full datasets and simulation code
+# Full datasets and code
 ----
 <p align="center">
   <img src="https://github.com/simonarvin/vagus/blob/main/misc/vagus_overview.svg" width=300/>
