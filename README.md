@@ -1,4 +1,4 @@
-# Full datasets and simulation code
+# Full datasets and code
 ----
 <p align="center">
   <img src="https://github.com/simonarvin/vagus/blob/main/misc/vagus_overview.svg" width=300/>
@@ -40,7 +40,7 @@ Simon Arvin, sarv@dandrite.au.dk
 
 Download the datasets and simulation codes by cloning the repository:
 ```
-git clone https://github.com/simonarvin/connectivity_smallworld.git
+git clone https://github.com/simonarvin/vagus.git
 ```
 
 You may want to use a Conda or Python virtual environment to test this code, to avoid mixing up with your system dependencies.
