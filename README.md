@@ -25,11 +25,6 @@ Simon Arvin, sarv@dandrite.au.dk
 
 ----
 
-## Contents:
-
-**Datasheets and simulation code:**
-- ...
-
 **Set-up:**
 - [Installation](#installation)
 - [Tests](#tests)
@@ -57,18 +52,6 @@ Using pip and a virtual environment:
 > 
 > [How to create a virtual environment in Windows](https://docs.python.org/3/library/venv.html).
 
-Alternatively, see [the requisites list](#requisites).
-
-## Tests
-
-...
-
-----
-
-## Requisites:
-...
-
-> e.g., ```pip install ....```
 
 ## Authors:
 
