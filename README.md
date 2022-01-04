@@ -53,7 +53,7 @@ Using pip and a virtual environment:
 > [How to create a virtual environment in Windows](https://docs.python.org/3/library/venv.html).
 
 
-## Authors:
+## Researchers:
 
 - Simon Arvin, MD Hons candidate (sarv@dandrite.au.dk)
 - Keisuke Yonehara, DVM PhD (keisuke.yonehara@dandrite.au.dk)
