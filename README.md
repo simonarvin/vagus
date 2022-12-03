@@ -55,7 +55,7 @@ Using pip and a virtual environment:
 
 ## Researchers:
 
-- Simon Arvin, MD Hons candidate (sarv@dandrite.au.dk)
+- Simon Arvin, MD (sarv@dandrite.au.dk)
 - Keisuke Yonehara, DVM PhD (keisuke.yonehara@dandrite.au.dk)
 - Andreas Nørgaard Glud, MD PhD (angl@clin.au.dk)
 
